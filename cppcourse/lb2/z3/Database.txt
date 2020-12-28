@@ -1,0 +1,1 @@
+fullname=Serizlized student,sex=1,birth_year=1998,start_year=2018,number=3,score=414
